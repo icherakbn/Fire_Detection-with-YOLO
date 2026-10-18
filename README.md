@@ -74,7 +74,7 @@ The following values were recovered from the available notebook validation outpu
 | Model | Precision | Recall | mAP@50 | mAP@50–95 |
 |---|---:|---:|---:|---:|
 | YOLOv5 | 0.647 | 0.417 | 0.477 | 0.233 |
-| YOLOv8 | To be added | To be added | To be added | To be added |
+| YOLOv8 | 0.658 | 0.42 | 0.513 | 0.288 |
 | YOLOv10 | 0.550 | 0.391 | 0.412 | 0.229 |
 
 The reported YOLOv5 and YOLOv10 validation outputs each contain **75 images and 156 object instances**.
